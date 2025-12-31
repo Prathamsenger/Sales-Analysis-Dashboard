@@ -69,9 +69,11 @@ Skirt shows negative or minimal profit, indicating low performance
 
 COD (Cash on Delivery) is the most preferred payment method
 
-Dashboard and demo
-Show me the dashboard look like, - [ALT  text]()
-Show: ()
 UPI and Debit Card follow
 
 EMI usage is comparatively low
+
+Dashboard and demo
+
+Show me the dashboard look like, - ![ALT  text](https://github.com/Prathamsenger/Sales-Analysis-Dashboard/blob/main/Screenshot%202025-12-31%20131123.png)
+Show: ![Dashboard Preview](https://github.com/Prathamsenger/Sales-Analysis-Dashboard/blob/main/Screenshot%202025-12-31%20131123.png)
